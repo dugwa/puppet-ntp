@@ -4,7 +4,7 @@
   "author": "dugwa",
   "summary": "This module will manage ntp",
   "license": "Apache-2.0",
-  "source": "https://github.com/dugwa/puppet-ntp",
+  "source": "https://github.com/dugwa/puppet-ntp.git",
   "project_page": "https://github.com/dugwa/puppet-ntp",
   "issues_url": "https://github.com/dugwa/puppet-ntp/issues",
   "dependencies": [
